@@ -456,6 +456,9 @@ $btn-theme: #3D5675;
 .adventage-col {
     flex: 0 1 33.33%;
     padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 .adventage {
